@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+}
+
+table, tr, td{
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgba(228, 228, 228, 0.966);
+}
+table{
+    height: 400px;
+    width: 500px;
+    
+    
+   
+}
+td{
+    color: rgb(1, 90, 20);
+}
+.button{
+    border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button5 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border: 2px solid #000000;
+    
+  }
+  
+  .button5:hover {
+   background-color: white;
+    color: rgb(0, 0, 0); 
+    
+  }
+  .cima{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+
+  }
+.baixo{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: -80px;
+}

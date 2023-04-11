@@ -1,0 +1,47 @@
+body{
+  margin: 0px;
+
+}
+
+.meio{
+  background-color: white;
+  width: 100%;
+  height: 508px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  column-gap: 40px;
+ 
+}
+#um{
+  width: 400px;
+  height: 40px;
+}
+#est{
+  width: 100px;
+  height: 46px;
+}
+#dois{
+  width: 250px;
+  height: 40px;
+}
+.tit{
+  justify-content: center;
+
+
+}
+#but{
+  width: 100px;
+  height: 40px;
+  background-color: rgb(20, 20, 20);
+  color: white;
+  margin-left: 22px;
+  border: 0;
+
+}

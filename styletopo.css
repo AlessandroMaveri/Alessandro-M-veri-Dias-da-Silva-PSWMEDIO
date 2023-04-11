@@ -1,0 +1,15 @@
+.topo{
+    background-color: rgb(160, 5, 190);
+    width: 100%;
+    height: 80px;
+    justify-content: left;
+align-items: center;
+display: flex  ;
+font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.tect{
+    margin-left: 35px;
+}
+    
